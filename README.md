@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">- 🧑‍🎓 I’m an Undergraduate at SLIIT<br>-🌱 I’m currently learning Programming</p>
+<p align="left">- 🧑‍🎓 I’m an Undergraduate at SLIIT<br>-🌱 I’m currently learning MERN Stack and Spring Boot</p>
+<p align="left">- 🧑‍🎓  Ask me about HTML , CSS , JavaScript , Java , Next.js , React , Node.js , Python , SQL</p>
 
 ###
 
